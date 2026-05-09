@@ -1,2 +1,2 @@
-quiz game
+#quiz_game
 https://t.me/+rIrFUZMlfPtmODRl
